@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋
 
-<!--
-**carolina2d/carolina2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana carolina
 
-Here are some ideas to get you started:
+estou estudando na [alura](https://www.alura.com.br)
+estou me desenvolvendo na 
+utilizo esse espaço para minha organizaçao e compartilharmento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode estrar em contato comigo 📧
+
+0001085290128@al.educacao.sp.gov.br
+
+@stya_anaaa
+
+![](https://media.tenor.com/vuRzrrA8MBIAAAAi/love-doggo.gif )
